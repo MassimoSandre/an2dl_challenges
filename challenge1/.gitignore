@@ -1,5 +1,4 @@
 configs/
 logs/
 models/
-submissions/
 *.csv
